@@ -1,1 +1,1 @@
-[![hkim2's 42 stats](https://badge42.vercel.app/api/v2/cl0yx1v0j0158ns5shlllmdvb/stats?cursusId=21&coalitionId=85)](https://github.com/hkim2/badge42)
+[![hkim2's 42 stats](https://badge42.vercel.app/api/v2/cl5kn32fm003009l8df56wubt/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
